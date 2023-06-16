@@ -1,5 +1,5 @@
 # Sport for everyone
-https://kuro-sik.github.io/landing-page/
+https://kuro-sik.github.io/sport-shop/
 <br>
 web-site for sport shop
 <br>
